@@ -1,0 +1,49 @@
+# Founder fact sheet
+
+Claude fills this in **from the conversation first**, then asks only for what's missing. Every application answer is built from these facts, never from invented ones. Mark unknowns as `UNKNOWN` and ask about them; never guess.
+
+## Company
+- Name / URL / demo link:
+- One-liner, in the founder's own words first:
+- What exists today (built? launched? when?):
+- Who the customer is (specific role / type of business):
+- The problem, in the customer's words:
+- How they solve it today (substitutes):
+- The insight: what you know that others in this space don't:
+- Why now: what recently changed (tech, regulation, behaviour):
+- Business model (one, with price):
+- Market size, bottom-up: number of customers × annual price:
+- Competitors and how you differ:
+- Who you fear most, and why:
+
+## Progress (with dates)
+- Users / customers (count, paying vs free):
+- Revenue (MRR, stated as monthly; never mix monthly and annual):
+- Growth rate (week over week or month over month):
+- Retention / usage signal:
+- User conversations done:
+- Pilots / LOIs / waitlist:
+- Launches (where, results):
+- Funding raised (amount, from whom):
+- Time spent so far, full-time vs part-time per founder:
+
+## Founders (repeat for each)
+- Name / role / technical (Y/N):
+- Education and work, one line:
+- The most impressive thing they've built or achieved (specific, with a number or outcome):
+- A time they hacked a non-computer system to their advantage:
+- Full-time now? If not, when:
+- Domain expertise for this problem:
+
+## Team
+- How long the founders have known each other, and how they met:
+- Have they worked together before? On what:
+- Who does what:
+- Equity split (and reason if unequal):
+
+## Logistics
+- Incorporated? Where? When?
+- Other investors / prior accelerators:
+- IP / noncompete issues; code written by non-founders:
+- Previous YC applications (batch, idea, interviewed?, stated rejection reason):
+- Target batch:
